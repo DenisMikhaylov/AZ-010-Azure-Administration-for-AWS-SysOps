@@ -1,8 +1,7 @@
 # AZ-010: Azure-Administration-for-AWS-SysOps
+## Note on use of AZ-104 Labs in this course
 
-- **[Download Latest Student Handbook and AllFiles Content](../../releases/latest)**
-- **Are you a MCT?** - Have a look at our [GitHub User Guide for MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
-- **Need to manually build the lab instructions?** - Instructions are available in the [MicrosoftLearning/Docker-Build](https://github.com/MicrosoftLearning/Docker-Build) repository
+AZ-010 labs are a subset of the AZ-104 labs and are taken directly from the [AZ-104 lab repository](https://aka.ms/az-010-all104labs).
 
 ## What are we doing?
 
